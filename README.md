@@ -16,4 +16,4 @@ MENTOR: NEELA SANTOSH KUMAR
 
 *OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/824783eb-ee82-465d-a554-2ecec120946a)
